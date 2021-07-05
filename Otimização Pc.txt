@@ -62,4 +62,7 @@
 			- Mostrar Miniaturas ao invés de ícones
 			- Rolar Caixa De Lsitagem Suavemente
 			- Usar Fontes de Telas Com Cantos arredondados
+
+10. Plano de Energia
+	- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
 	
