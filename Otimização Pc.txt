@@ -1,52 +1,52 @@
-							Otimização Do Pc
+							OtimizaÃ§Ã£o Do Pc
 
-- Troque o navegador por Opera
-	e desative o outro tecla Windows-Painel de Controle-programas e recursos-ativar ou desativar recursos-Marcar Internet Explorer
-	Instale Uma Extensão de tradutor e tbm de baixar videos do youtube.
-- Não Instalar Anti-Virus 
-	O Proprio Sistema Ja Trabalha Com Windows Defender
-- Desativar Serviços XPS 
-	é um formato criado para criar, imprimir e visualizar arquivos no computador. uma alternativa ao Adobe PDF, raramente é utilizado.
-- Desativar Hospedagem no serviço de ativação do processo ou (WAS - Windows Process Activation Service) 
-	Criado para ajudar o usuário a desenvolver aplicativos e serviços,o WAS foca em quem planeja transformar o seu computador em um servidor caseiro.
-- Desativar Remote Differential Compression (RDC)
-	o RDC é um serviço mais voltado para ambientes de servidor. Permite a conexão remota entre dois computadores, caso do Remote Desktop Connection ou semelhante.
-- Desativar Cliente de pastas de trabalho
-	Links de pastas compartilhadas na rede são bastante comuns em ambientes corporativos, mas pouco comum em PCs domésticos. Se você não possui pastas remotas em casa, pode desativar este serviço.
-- Desativar Windows PowerShell
-	o PowerShell é uma ferramenta semelhante ao Terminal do Linux para a automação de tarefas e criação de scripts. É uma espécie de “Super CMD”, mas pode se desativado caso não seja utilizado.
-- Desativar Windows Fax and Scan
-	trata-se do subsistema para lidar com aparelhos de fax e scanners. Se você não usa aparelhos do tipo, pode desativá-lo sem medo
-- Desativar Microsoft Print to PDF
-	Alguns sites oferecem a opção de imprimir certos arquivos, e este recurso, permite que essa “impressão” seja virtual, salvando o documento no formato PDF.
-- Desativar Internet Printing Client, 
-	Ainda falando de impressão, este recurso permite a impressão via internet dentro da rede local. Se você não possui uma impressora que funciona na rede, pode desativar este recurso sem problemas.
-- Desativar Windows Media Player
-	Ainda no departamento de softwares sobressalentes, temos o Windows Media Player. Incapaz de rodar formatos mais modernos de arquivos, ele pode ser substituído por excelentes alternativas gratuitas, como é o caso do VLC Media Player.
-- Desativar DirectPlay, Componente da API do DirectX
-	o DirectPlay é utilizado para rodar jogos bastante antigos, 
-	dificilmente jogados atualmente. Você pode desativá-lo em Componentes legados ->DirectPlay.
-- Desativar acesso Remoto 
-	Painel de Controle\Todos os Itens do Painel de Controle\Sistema\Configurações Remotas Desmarcar Opção.
-- Desativar atualizações do Windows Update
-	Mas Sempre q der, Verificar se há atualizaçoes, Painel de Controle\Todos os Itens do Painel de Controle\Windows Update\Alterar configurações
-- Desabilitar Programas que não necessitam iniciar ao ligar
-	Gerenciador de Tarefas\ Inicialização\ 
-- Desativar Spooler de Impressão
-	Se não Tem Impressora então desative, tecla windows+R - Digite Services.msc
-- Desativar Logon de rede (Netlogon)
-	Este serviço autentica a sua conta de usuário com um controlador de domínio. Isso é comum em empresas, mas o seu computador pessoal certamente não faz parte de um domínio, portanto, ele pode ser desativa
-- Serviço de Suporte a Bluetooth
-	Você não precisa desse serviço se não tem Bluetooth em seu computador. Além disso, você também pode querer desativá-lo para proteger seu computador contra possíveis ataques realizados através de Bluetooth.
-- Desativar Logon secundário
-	Esse serviço permite executar tarefas administrativas como uma conta padrão utilizando a opção “Executar como. Se você possui somente uma conta em seu PC, você não precisa desse recurso e pode desativá-lo.
-- Desativar Cartão Inteligente
-	Esse serviço ajuda o Windows a funcionar com cartões inteligentes. É muito improvável que você encontre ele fora do ambiente empresarial, logo não é necessário para usuários domésticos e pode ser desabilitado.
-- Desativar Configuração da Área de Trabalho Remota
-	Esse serviço permite que o recurso Área de Trabalho Remota do Windows funcione corretamente. Se você nunca usa esse recurso ou então deseja desabilitá-lo por segurança, você pode desativá-lo completamente.
-- Desative Fax
-	Esse serviço permite enviar e receber fax no Windows. Porém, muito provavelmente você nunca enviou um fax usando o seu computador. Esse é um serviço bastante inútil do Windows 10 que você pode desabilitar.
-- Desativar Propagação de certificado 
-	Se você não estiver usando SmartCards, que às vezes são usados ??em grandes organizações, é seguro desativar este serviço. Configuração segura: desativado.
+1. Na Bios,Escolha a Menor OpÃ§Ã£o Para Memoria Para Hardware.
+
+2. Troque o Navegador Por Navegador Opera.
+	-Instale Uma ExtensÃ£o de tradutor e baixar videos do youtube. no Opera
+	
+	-Desative o navegador padrÃ£o 
+		-painel de controle - desinstalar programa - microsoft edge
+		
+		-tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos - Marcar Internet Explorer
+		
+		-tecla windows+R - "digite Regedit" - clique em "Editar" - Pesquise Pelo Nome Do Programa
+			-Edge, Microsoft Edge, Microsoft\edge, Microsoft-edge
+	
+3. NÃ£o Instalar Anti-Virus 
+	-O Proprio Sistema Ja Trabalha Com Windows Defender
+	
+4. Desativar ServiÃ§os Desnecessarios MÃ©todo 1.
+	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
+		- Marcar Internet Explorer
+		- ServiÃ§os Xps
+		- Ver Pdf Dedicado a Isso.
+
+5. Desativar ServiÃ§os Desnecessarios MÃ©todo 2
+	- Tecla Windows - digite "Services.msc"
+		
+		- Desativar Spooler de ImpressÃ£o - Se NÃ£o Houver Impressora
+		
+		- Desativar Logon de rede (Netlogon) - Autentica a sua conta de usuÃ¡rio com um controlador de domÃ­nio. Isso Ã© comum em empresas, mas o seu computador pessoal 			certamente nÃ£o faz parte de um domÃ­nio, deve desativar.
+		
+		- ServiÃ§o de Suporte a Bluetooth - Se nÃ£o ter Bluetooth no computador.
+		
+		- Desativar Logon secundÃ¡rio - Permite executar tarefas administrativas como uma conta padrÃ£o utilizando a opÃ§Ã£o â€œExecutar como. Se vocÃª possui somente uma conta 		   em seu PC, vocÃª nÃ£o precisa desse recurso e pode desativÃ¡-lo.
+
+		- Desativar CartÃ£o Inteligente
+	
+		- Desativar ConfiguraÃ§Ã£o da Ãrea de Trabalho Remota
+
+		- Desative Fax
+	
+		- Desativar PropagaÃ§Ã£o de certificado 
+		Se vocÃª nÃ£o estiver usando SmartCards, desative-o.		
+		
+6. Limpeza De Disco
  
 
+
+	- Ver Pdf Dedicado a isso
+
+6. Desabilitar Programas que NÃ£o Necessitam Iniciar ao Ligar
+	- Gerenciador de Tarefas\ InicializaÃ§Ã£o\ 
