@@ -22,7 +22,7 @@
 		- Serviços Xps
 		- Ver Pdf Dedicado a Isso.
 
-5. Desativar Serviços Desnecessarios Método 2
+5. Desativar Serviços Desnecessarios Método 2.
 	- Tecla Windows - digite "Services.msc"
 		
 		- Desativar Spooler de Impressão - Se Não Houver Impressora
@@ -42,11 +42,24 @@
 		- Desativar Propagação de certificado 
 		Se você não estiver usando SmartCards, desative-o.		
 		
-6. Limpeza De Disco
- 
-
-
-	- Ver Pdf Dedicado a isso
-
-6. Desabilitar Programas que Não Necessitam Iniciar ao Ligar
-	- Gerenciador de Tarefas\ Inicialização\ 
+6. Limpezas
+	- Limpeza de Disco
+	- Limpar Pontos de Restauração Antigos ou Desnecessários
+		- Propriedades do Sistema - Proteção do Sistema - Configurar - Excluir.
+	- Limpar Cache Navegador
+ 		
+7. Desabilitar Programas Que Não Necessitam Iniciar ao Ligar Máquina.
+	- Gerenciador de Tarefas - Inicialização
+	
+8. Desabilitar Assistência Remoto
+	- Propriedades do Sistema - Proteção do Sistema - Remoto.
+	
+9. Desabilitar Efeitos Visuais
+	- Propriedades do Sistema - Proteção do Sistema - Avançado - Desempenho - Escolha As opções
+		-Deixar Marcado as Opções
+			- Abrir caixas de combinação
+			- Mostrar Conteúdo Da Janela ao Arrastar
+			- Mostrar Miniaturas ao invés de ícones
+			- Rolar Caixa De Lsitagem Suavemente
+			- Usar Fontes de Telas Com Cantos arredondados
+	
