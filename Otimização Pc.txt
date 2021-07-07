@@ -96,5 +96,6 @@
 	- Desfragmentar disco rigido
 		-Pesquisar por desfragmentar - analisar o quanto está fragmentado - e desfragmentar - pode agendar também.
 	-------------------------------------------------------------
-	
+	- Corrigir erros na unidade C
+		-Botão direito sobre Disco - Propriedades - Ferramentas - disco C - Corrigir
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
