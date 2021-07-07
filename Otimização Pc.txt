@@ -98,4 +98,7 @@
 	-------------------------------------------------------------
 	- Corrigir erros na unidade C
 		-Botão direito sobre Disco - Propriedades - Ferramentas - disco C - Corrigir
+	-------------------------------------------------------------
+	- fazer backup de disco funçao nativa do windows
+		- Configurações - Atualização e segurança - adicionar uma unidade - configurar opções 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
