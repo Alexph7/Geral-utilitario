@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. No Momento o Edge é o Navegador Que Menos, Consome RAM.
+2. No Momento o Edge é o Navegador Que Menos Consome RAM.
 	-Instale Uma Extensão de Bloquear Anuncios baixar videos do youtube.
 	-------------------------------------------------------------------
 	-Sicronizar a Conta Com as Configuraões feitas Para Nao ficar Configurando
