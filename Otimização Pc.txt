@@ -67,6 +67,10 @@
 		- Gerenciador de Tarefas - Inicialização
 		- ou Conigurões - Aplicativos - inicialização
 	-------------------------------------------------------------
+	- Desativar o controle de conta de usuário no Windows 10
+	- Digitar "uac" na pesquisa e marcar, nao receber notificação
+	  Ao desativar o recurso você não receberá notificações sobre alterações no sistema.
+	-------------------------------------------------------------
 	- Desabilitar Assistência Remoto
 		- Propriedades do Sistema - Proteção do Sistema - Remoto.
 	-------------------------------------------------------------
