@@ -7,7 +7,7 @@
 		-windows + R - digitar regedit - arquivos - exportar
 		-Subir Backups Para Nuvem - google drive
 	------------------------------------------------------------------------
-	
+	- Desinstalar Aplicativos de Fabrica e Suas Chaves
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. No Momento o Edge é o Navegador Que Menos Consome RAM.
@@ -20,7 +20,17 @@
 	-------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-3. 
+3. - Configurar Privacidade
+	- Configurações - privacidade
+		- Desativar Aplicativos em Segundo Plano
+		- Item Geral
+		- Personalização de escrita a mão
+		- Diagnostico e comentarios
+			- Desativar tudo ou quase tudo
+		- Historico de atividade
+		- Configurar Permissoes de aplicativo
+	-------------------------------------------------------------
+	
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 	
 4. Desativar Serviços Desnecessarios Método 1.
@@ -123,7 +133,7 @@
 
 	- Desativar aplicativos de inicialização
 		- Gerenciador de Tarefas - Inicialização
-		- ou Conigurões - Aplicativos - inicialização
+		- ou Configurões - Aplicativos - inicialização
 	-------------------------------------------------------------
 	- Desativar o controle de conta de usuário no Windows 10
 	- Digitar "uac" na pesquisa e marcar, nao receber notificação
@@ -152,10 +162,6 @@
 		  em segundo plano enquanto você navega em seu computador. Essa função
 		  Consome memória RAM Durante a análise de dicas recomendadas ao usuário.
 			-Configurações - Sistema - Notificações e ações
-	-------------------------------------------------------------
-	- Desativar Aplicativos em Segundo Plano
-		- Em menu iniciar, pesquise por “Aplicativos em segundo plano”;
-			-Desative os de Preferencia
 	-------------------------------------------------------------
 	- Plano de Energia
 		- Painel de controle - Opções de Energia. Escolhe Desempenho Máximo, Ou Criar Plano De Energia Para Obter Alto Desempenho.
