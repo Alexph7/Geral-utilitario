@@ -1,7 +1,13 @@
 							Otimização Do Pc
 
-1. Na Bios,Escolha a Menor Opção Para Memoria Para Hardware. -Advanced - 
-
+1. Inicio
+	- Na Bios, Escolha a Menor Opção Para Memoria. -Advanced - Memory size
+	------------------------------------------------------------------------
+	- Fazer backup registros regedit
+		-windows + R - digitar regedit - arquivos - exportar
+		-Subir Backups Para Nuvem - google drive
+	------------------------------------------------------------------------
+	
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. No Momento o Edge é o Navegador Que Menos Consome RAM.
@@ -14,11 +20,9 @@
 	-------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. 
 
-3. Não Instalar Anti-Virus 
-	-O Proprio Sistema Ja Trabalha Com Windows Defender
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 	
 4. Desativar Serviços Desnecessarios Método 1.
 	- Tecla windows - Painel de Controle - programas e recursos - ativar ou desativar recursos
 		- Marcar Internet Explorer
@@ -106,7 +110,7 @@
 		-------------------------------------------------------------
 		-------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------		
-6. Limpezas
+6. Limpezas 
 	- Limpeza de Disco
 	- Limpar Pontos de Restauração Antigos ou Desnecessários
 		- Propriedades do Sistema - Proteção do Sistema - Configurar - Excluir.
@@ -138,12 +142,16 @@
 				- Usar Fontes de Telas Com Cantos arredondados
 	-------------------------------------------------------------
 	- Ativar o Sensor de Armazenamento.
-		-Com o sensor de armazenamento ativo, seu espaço de disco ficará livre de arquivos temporários, além de contar com mais espaço de armazenamento, você não terá 		 	  problemas de desempenho ocasionados pela falta de espaço de disco
+		-Com o sensor de armazenamento ativo, seu espaço de disco ficará livre de arquivos temporários,
+		 além de contar com mais espaço de armazenamento, você não terá problemas de desempenho 
+		 ocasionados pela falta de espaço de disco
 			 -Configurações - Sistema - Armazenamento - Ativar - Configurar opcional
 	-------------------------------------------------------------
 	- Desativar a opção “Dicas e Truques do Windows”
-		- A opção "Dicas e Truques do Windows" faz cometários sobre como utilizar o sistema em segundo plano enquanto você navega em seu computador. Essa função 		 	  Consome memória RAM Durante a análise de dicas recomendadas ao usuário.
-			-Configurações - Sistema - Armazenamento	
+		- A opção "Dicas e Truques do Windows" faz cometários sobre como utilizar o sistema 
+		  em segundo plano enquanto você navega em seu computador. Essa função
+		  Consome memória RAM Durante a análise de dicas recomendadas ao usuário.
+			-Configurações - Sistema - Notificações e ações
 	-------------------------------------------------------------
 	- Desativar Aplicativos em Segundo Plano
 		- Em menu iniciar, pesquise por “Aplicativos em segundo plano”;
