@@ -85,6 +85,25 @@
 		- O Superfetch ou SysMain é um serviço que roda em segundo plano 
 		  no Windows para monitorar as aplicações mais utilizadas no sistema.
 		-------------------------------------------------------------
+		- Parar Servic Medic do windows update 
+		  serviço só pode ser posto em manual
+		-------------------------------------------------------------
+		- Desativar salvar jogos no xbox live
+		-------------------------------------------------------------
+		- Desativar Microsoft edge Update Service(edgeUpdate)
+		  Mantém o software do Microsoft edge atualizado porem tem 
+		  atraso na inicialização.
+		-------------------------------------------------------------
+		- Desativar Microsoft edge Update Service(edgeUpdatem)
+		  Mantém o software do Microsoft edge atualizado
+		  outra opção similar a anterior
+		-------------------------------------------------------------
+		- Desativar Microsoft edge elevation
+		-------------------------------------------------------------
+		- 
+		-------------------------------------------------------------
+		-------------------------------------------------------------
+		-------------------------------------------------------------
 		-------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------		
 6. Limpezas
