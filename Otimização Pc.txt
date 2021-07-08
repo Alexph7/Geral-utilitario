@@ -179,3 +179,5 @@
 	- fazer backup de disco funçao nativa do windows
 		- Configurações - Atualização e segurança - adicionar uma unidade - configurar opções 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8. Salvar todas as Configurações em backup da imagem do windows
+	Painel de Controle - Todos os Itens do Painel de Controle - Histórico de Arquivos - Backup da imagem do sistema - criar imagem do sistema
