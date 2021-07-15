@@ -176,8 +176,13 @@
 	- Corrigir erros na unidade C
 		-Botão direito sobre Disco - Propriedades - Ferramentas - disco C - Corrigir
 	-------------------------------------------------------------
-	- fazer backup de disco funçao nativa do windows
-		- Configurações - Atualização e segurança - adicionar uma unidade - configurar opções 
+	- Salvar todas as Configurações em backup da imagem do windows.
+		-Painel de Controle - Todos os Itens do Painel de Controle - Histórico de Arquivos - Backup da imagem do sistema - criar imagem do sistema
+	
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-8. Salvar todas as Configurações em backup da imagem do windows
-	Painel de Controle - Todos os Itens do Painel de Controle - Histórico de Arquivos - Backup da imagem do sistema - criar imagem do sistema
+
+8. Excluir Arquivos Sem Deixar Registros e Rastros
+	1. Desinstalar Normalmente Pelo Painel de Controle
+	2. Deletar o Arquivo da Pasta - ProgramData - Está Oculta No Disco Local
+	3. Abrir "Regedit" e pesquisar pelo nome do Programa e apagar pelos registros
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
