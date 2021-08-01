@@ -18,7 +18,14 @@
 	-------------------------------------------------------------------
 	-bloquear cookies de terceiros
 	-------------------------------------------------------------------
-
+	-Desativar os seguintes serviços em - Configurações - Sistema
+		- Impulso de inicialização
+		- Continuar executando extensoes de aplicativos em segundo plano
+		- usar acelerador de hardware quando disponivel
+	- Abrir as configurações do proxy do Computador
+		- Desativar opção "detectar Configurações automaticamente" - impede q o navegador fique detectando configurações toda vez q é aberto
+		- Se possivel desmarcar a opção "Usar script de Instalação"
+		
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. - Configurar Privacidade
 	- Configurações - privacidade
