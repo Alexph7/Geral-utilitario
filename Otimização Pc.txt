@@ -127,7 +127,11 @@
 	-------------------------------------------------------------
 	- Limpar Cache Navegador
 	-------------------------------------------------------------
-	
+	- limpar arquivos temporarios
+		tecla windows + R, digitar "Temp" e excluir tudo na pasta
+		tecla windows + R, digitar "Prefetch" e excluir tudo na pasta
+		tecla windows + R, digitar "%Temp%" e excluir tudo na pasta
+		tecla windows + R, digitar "Recent" e excluir tudo na pasta
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 		
 7. Configurações Do Sistema 
 
@@ -195,3 +199,9 @@
                   Arquivos de programas (x86) - excluir pastas indesejadas
         3. Abrir "Regedit" e pesquisar pelo nome do Programa e apagar pelos registros
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9. Deixar pc rapido
+	1. Abrir regedit - HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction
+		agora com o botao direito criar novo valor de cadeia de caracteres, nomeie como "ENABLE" sem aspas e coloque Y como valor
+	2. HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\currentVersion\explorer
+		criar "novo" - "valor 32bits" - definir valor 1.
