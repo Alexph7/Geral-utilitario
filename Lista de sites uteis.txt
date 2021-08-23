@@ -231,6 +231,14 @@ https://mvnrepository.com/repos/central //Baixar tudo para programaçao inclusiv
 https://commons.apache.org/  // site de coleçoes e bibliotecas java
 ===========================================   OUTROS   ======================================================
 
+https://www.searchblogspot.com/ motor de buscas que procura a palavra chave dentro de blogs
+
+http://megadownload.net Pesquisa arquivos diretamente pelos sites
+
+http://www.virustotal.com/  verifica se arquivos ou urls contem virus
+
+http://www.bannerfans.com/banner_maker.php criar barnes
+
 https://forebears.io/surnames //Origem dos sobrenomes e curiosidades
 
 http://www.google.com/safebrowsing/diagnostic?site=example.com //Pra ver se um site é seguro Substitua a palavra "example" pelo nome do dominio 
