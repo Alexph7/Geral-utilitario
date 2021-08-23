@@ -227,6 +227,8 @@ https://whatismyipaddress.com/
 ===========================================   Tudo sobre Java   ======================================================
 
 https://mvnrepository.com/repos/central //Baixar tudo para programaçao inclusive drives para java e tbm em xml para inserir no maven
+
+https://commons.apache.org/  // site de coleçoes e bibliotecas java
 ===========================================   OUTROS   ======================================================
 
 https://forebears.io/surnames //Origem dos sobrenomes e curiosidades
