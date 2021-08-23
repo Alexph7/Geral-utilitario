@@ -1,15 +1,5 @@
 ===========================================   Lista De Sites Uteis.   =======================================
 
-Sites de CEO
-Sites de biblia
-Sites de referencia e / ou estatisticas população
-Tabela e calculadora de alimentos
-Funções de texto
-Conversor de web pra pdf grátis
- 
-
-
-
 ===========================================   SITES DE CEO   ================================================
 
 https://seositecheckup.com/
@@ -21,17 +11,13 @@ https://www.seoptimer.com/
 https://seotesteronline.com/
 
 https://technicalseo.com/
-
- 
-
 ============================================   SITES DE BIBLIA   ============================================
 
 Este site reúne diversos sites úteis sobre a biblia variadas dentre elas uma que ver a biblia em hebraico e mais. 
 
 https://www.abiblia.org/recursos.php?a=3
 
-
-
+bibliaplus.org //comentarios biblicos
 ======================================   Estatisticas, População e geografia   ============================== 
 
 https://www.worldometers.info/br /
@@ -39,29 +25,20 @@ https://www.worldometers.info/br /
 https://livepopulation.com
 
 https://indexmundi.com 
-
-
-
 ======================================   Tabela e calculadora dos alimentos   ===============================
 
 1 https://tbca.net.br (clicar no link “base de dados”)    
 
 2 https://tabnut.dis.epm.br
-
-
-
-===========================================   Funcões de texto em geral   ===================================
+===========================================   Funcões de texto e palavras utilitarios em geral   ==============
 
 https://www.invertexto.com/
 
- https://palavras.net
+https://palavras.net
 
- https://www.palavrasque.com/
+https://www.palavrasque.com/
 
 https://keywordtool.io //Site de geraçao de palavras chaves para auxiliar em pesquisas.
-
-
-
 ===========================================   Conversor web para PDF   =====================================
 
 https://convertio.co/pt/html-pdf/
@@ -71,9 +48,6 @@ https://web-capture.net/
 https://webpagetopdf.com/
 
 https://www.web2pdfconvert.com/
-
- 
-
 ===========================================   BAIXAR VD YOUTUBE   ===================================
 
 www.genyoutube.net
@@ -95,8 +69,7 @@ keepv.id/7/
 https://downloadit.online/
 
 https://yt1s.com/en1
-
-======================BAIXAR VIDEOS DE PLAYLIST INTEIRA DO YOUTUBE ========
+=============================BAIXAR VIDEOS DE PLAYLIST INTEIRA DO YOUTUBE ==============================
 
 onlinevideoconverter.party (100 vds)
 
@@ -117,9 +90,7 @@ https://converterbear.co/playlist-converter.php(Apenas em mp3, mais de 64)
 savemedia.cc
 
 https://u2b.fun/en/youtube-playlist-downloader/
-
-
-=========================================== MAIS BAIXAR VD YOUTUBE ==============================================
+=========================================== MAIS BAIXAR VD YOUTUBE =======================================
 
 https://getfromyt.com/youtube-cutter (Cortar partes, mais rapido)
 
@@ -127,10 +98,8 @@ https://www.clipconverter.cc (Cortar Partes de Video)
 
 https://youtube4kdownloader.com (Baixar 4/8K **** )
 
-https://youtube4kdownloader.com/pt/youtube-private-downloader.html (BAIXAR VIDEOS PRIVADOS *****)
-
-
-===========================================   Videos Downloader free royalt ========================================
+https://youtube4kdownloader.com/pt/youtube-private-downloader.html (BAIXAR VIDEOS PRIVADOS *****
+===========================================   Videos Downloader free royalt ==============================
 
 pixabay.com
 
@@ -142,21 +111,13 @@ videvo.net
 http://portal.anvisa.gov.br/ //Portal para ver tudo sobre medicamentos, notificaçoes, preços, dosagem E etc.
 
 http://www.anvisa.gov.br/datavisa/fila_bula/index.asp //Pesquisa de bulas de remedios em geral pela anvisa
+===========================================   COMPRIMIR VIDEOS   =========================================
 
-
-
-===========================================   COMPRIMIR VIDEOS   ============================================
-
-https://www.mp4compress.com/ //Comprimir videos de mp4 nao recomendado usar com videos caseiros bom pra reduzir tamanho de arquivo.
-    
-
-
+https://www.mp4compress.com/ //Comprimir videos de mp4 nao recomendado usar com videos caseiros 
+bom pra reduzir tamanho de arquivo.
 ===========================================   MOTOR DE BUSCA   ==============================================
 
 http://www.102busca.com.br/ //Busca inteligente de diversos e importante
-
-
-
 ===========================================   CALCULADORAS   ================================================
 
 https://www.topster.pt/calendario/tagerechner.php?styp=datum&stag=22&smonat=07&sjahr=2019&typ=datum&etag=22&emonat=08&ejahr=2019&subDazu=+&dazu=0 //Calculadora de dias. E outros. Nao esta na homepage.
@@ -164,9 +125,6 @@ https://www.topster.pt/calendario/tagerechner.php?styp=datum&stag=22&smonat=07&s
 https://www.calendario-365.com.br //Outra calculadora de dias.
 
 https://rapidtables.com/ //referência online e ferramentas - calculadoras, conversores, matemática, eletricidade, web design
-
-
-
 ===========================================   TECNOLOGIA   ==================================================
 
 https://www.tudocelular.com/celulares/fichas-tecnicas.html //Fichas técnicas de celulares em geral bom para analisar antes de comprar.
@@ -190,9 +148,6 @@ https://htwins.net/scale2/ //Escala de tudo no mundo.
 https://www.figuradelinguagem.com/ https://www.figuradelinguagem.com/ //Para estudo das figuras de linguagens
 
 https://www.normaculta.com.br/ //Um dos sssites mais completos para aprender portugue
-
-
-
 ==============================================   DICIONARIOS   ================================================
 
 https://palavras-que-rimam.net/
@@ -202,22 +157,11 @@ https://www.sinonimos.com.br/ //Dicionario de sinonimos e importante
 http://www.etymonline.com //Dicionário Etimologico
 
 http://yourdictionary.com //Dicionario Geral
-
-
-
 ==========================================   MATEMATICA   ======================================================
 
 https://pt.khanacademy.org/math //Matemática completa.
 
 https://www.mathway.com /Calcula expressoes matematicas
-
-
-
-================================================   MERCADO =================================================
-
-
-
-
 =============================================   GOV   =====================================================
 
 http://www4.planalto.gov.br/legislacao //Leis, codigos e tudo sobre legislacao para consulta.
@@ -245,9 +189,6 @@ https://www.ibge.gov.br/ //Ibge para visualizar indicadores
 https://cidades.ibge.gov.br/ //Pesquisar dados detalhados sobre cidades estados e país.
 
 https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html //Poder para fazer o download de dados sobre estatísticas do ibge
-
-
-
 ===========================================   ARTIGOS CIENTIFICOS   =========================================
 
 https://www.ncbi.nlm.nih.gov/m/pubmed //Site de artigos científicos sobre alimentos
@@ -257,10 +198,6 @@ https://blog.even3.com.br/principais-sites-para-pesquisa-cientifica //Lista de 1
 https://www.guiademidia.com.br/sites/saude-e-medicina.htm //Escolha uma categoria e reste site mostra uma vasta lista de sites que tratam do assunto.
 
 https://www.nucleodoconhecimento.com.br/ //Este site é sobre artigos científicos e tem de todas as materia bom para fazer downloads de paginas e guardar e tambem de aprender sobre novidades de nutriçao e outras áreas.
-
-
-
-
 ==============================================   SITES SIMILARES   =========================================== 
 
 Similarsitesearch.com
@@ -276,9 +213,6 @@ Topsimilarsites.com
 Similarsites.com
 
 Ferramenta google: inserir antes do site related:
-
-
-
 =============================================   IP's protocol   ============================================= 
 
 https://www.ipfingerprints.com/
@@ -288,9 +222,9 @@ https://www.iplocation.net/
 https://www.ip-tracker.org/
 
 https://whatismyipaddress.com/
+===========================================   Tudo sobre Java   ======================================================
 
-
-
+https://mvnrepository.com/repos/central //Baixar tudo para programaçao inclusive drives para java e tbm em xml para inserir no maven
 ===========================================   OUTROS   ======================================================
 
 https://forebears.io/surnames //Origem dos sobrenomes e curiosidades
