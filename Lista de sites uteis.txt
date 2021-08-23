@@ -229,6 +229,8 @@ https://mvnrepository.com/repos/central //Baixar tudo para programaçao inclusiv
 
 https://forebears.io/surnames //Origem dos sobrenomes e curiosidades
 
+http://www.google.com/safebrowsing/diagnostic?site=example.com //Pra ver se um site é seguro Substitua a palavra "example" pelo nome do dominio 
+
 https://www.ebit.com.br/
 
 https://www.proteste.org.br/ //Site para reclamações sobre produtos e ver tbm, reputações de empresas e comentarios de quem ja comprou.
